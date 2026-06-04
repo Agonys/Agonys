@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Piotr 👋
 
-<!--
-**Agonys/Agonys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Developer based in Gdańsk, Poland.
 
-Here are some ideas to get you started:
+Most of my professional work lives in private repositories. Outside of work I'm usually
+tinkering with something locally — tweaking my Hyprland setup, building small Electron
+overlays, writing Tampermonkey scripts to improve pages I use daily, putting together
+game-oriented tools that make my day-to-day life a bit easier, or just anything that
+sparks my interest. Most of it never gets pushed anywhere since it's just personal
+workflow stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Occasionally I'll upload something here, mostly so friends can peek at what I'm building.
+
+Currently working with: JavaScript, TypeScript, React and whatever else gets the job done.
